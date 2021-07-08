@@ -50,9 +50,9 @@ class TOracleDatabase extends TAbstractDatabase {
                     [ empId ]
                 )
 
-                console.log( result.rows[ 0 ] )
+                this.logger.log( result.rows[ 0 ] )
             } catch ( err ) {
-                console.log( 'Ouch!', err )
+                this.logger.log( 'Ouch!', err )
             } finally {
                 if ( conn ) { // conn assignment worked, need to close
                     await conn.close()
