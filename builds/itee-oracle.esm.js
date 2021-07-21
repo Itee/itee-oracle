@@ -1,4 +1,4 @@
-console.log('Itee.Database.Oracle v1.0.2 - EsModule')
+console.log('Itee.Database.Oracle v1.0.3 - EsModule')
 import * as OracleDBDriver from 'oracledb';
 import { TAbstractDatabase } from 'itee-database';
 
