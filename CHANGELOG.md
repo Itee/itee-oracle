@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/Itee/itee-oracle/compare/v1.0.2...v1.0.3) (2021-07-21)
+
+
+### Bug Fixes
+
+* **readme:** add simple readme content ([5d9abc1](https://github.com/Itee/itee-oracle/commit/5d9abc11c3b22e6427081d44618be3c448f0c68c))
+
 ## [1.0.2](https://github.com/Itee/itee-oracle/compare/v1.0.1...v1.0.2) (2021-07-08)
 
 
